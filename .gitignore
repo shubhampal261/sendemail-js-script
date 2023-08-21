@@ -1,3 +1,6 @@
+# custom files and dir added by author
+package-lock.json
+
 # Logs
 logs
 *.log
